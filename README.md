@@ -18,3 +18,7 @@ Id:
 Dinero: 
 500
 ****Usuario Creado****
+
+Funcionalidad del aspecto Logger
+
+![](funcionalidad-logger.jpg)

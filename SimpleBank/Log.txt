@@ -1,1 +1,3 @@
 Tipo transaccion: Realizar transaccion | Hora: Wed Jun 17 22:25:52 COT 2020
+Tipo transaccion: Realizar transaccion | Hora: Wed Jun 17 23:48:42 COT 2020
+Tipo transaccion: Retirar dinero | Hora: Wed Jun 17 23:48:42 COT 2020
